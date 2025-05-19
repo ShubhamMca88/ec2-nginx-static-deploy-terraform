@@ -1,6 +1,6 @@
 # Terraform Automation: Static Website Deployment on AWS EC2 & Nginx
 
-[![GitHub](https://img.shields.io/badge/GitHub-aws--terraform--ec2-blue)](https://github.com/shubham/aws-terraform-ec2)
+[![GitHub](https://img.shields.io/badge/GitHub-aws--terraform--ec2-blue)](https://github.com/ShubhamMca88/ec2-nginx-static-deploy-terraform?tab=readme-ov-file)
 
 This project automates the deployment of a static website using AWS EC2, Nginx web server, and GitHub integration through Terraform.
 
