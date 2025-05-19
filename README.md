@@ -4,6 +4,9 @@
 
 This project automates the deployment of a static website using AWS EC2, Nginx web server, and GitHub integration through Terraform.
 
+![Terraform AWS EC2 Nginx](./terraform-ec2-nginx-deploy.png)
+
+
 ## Overview
 
 - **Terraform Automation**: Complete infrastructure provisioning and management
